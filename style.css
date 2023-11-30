@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding: 6rem;
+  background-color: #e2edff;
+}
+#Picture {
+  background-color: #e2edff;
+}
